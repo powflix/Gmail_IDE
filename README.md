@@ -14,11 +14,11 @@ Powflix has adopted "Contributor Covenant Code of Conduct V2.0", participants ar
 
 ## Contributing
 
-Your help in making BSECURE better will be highly appreciated. If you're interested, please refer [CONTRIBUTING](https://github.com/powflix/instamail/blob/master/CONTRIBUTING.md)
+Your help in making INSTAMAIL better will be highly appreciated. If you're interested, please refer [CONTRIBUTING](https://github.com/powflix/instamail/blob/master/CONTRIBUTING.md)
 
 ## License
 
-Bsecure is licensed under "GNU General Public License v3 (GPLv3)", read details in [LICENSE](https://github.com/powflix/instamail/blob/master/LICENSE)
+Instamail is licensed under "GNU General Public License v3 (GPLv3)", read details in [LICENSE](https://github.com/powflix/instamail/blob/master/LICENSE)
 
 ## Copyright
 
